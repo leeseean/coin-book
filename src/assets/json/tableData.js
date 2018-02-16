@@ -58,4 +58,12 @@ export default [{
   "date": "2018/1/26",
   "exchange": "GATE",
   "money": "10000"
+}, {
+  "date": "2018/2/1",
+  "exchange": "ZB",
+  "money": "-396"
+}, {
+  "date": "2018/2/26",
+  "exchange": "ZB",
+  "money": "-495"
 }]
