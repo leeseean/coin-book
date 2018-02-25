@@ -63,7 +63,15 @@ export default [{
   "exchange": "ZB",
   "money": "-396"
 }, {
-  "date": "2018/2/26",
+  "date": "2018/2/16",
   "exchange": "ZB",
   "money": "-495"
+}, {
+  "date": "2018/2/24",
+  "exchange": "OKEX",
+  "money": "-1083.57"
+}, {
+  "date": "2018/2/25",
+  "exchange": "ZB",
+  "money": "-4554"
 }]
