@@ -87,4 +87,8 @@ export default [{
   "date": "2018/6/17",
   "exchange": "OTCBTC",
   "money": "-3338.38"
+}, {
+  "date": "2020/3/12",
+  "exchange": "ZB",
+  "money": "-108"
 }]
