@@ -91,4 +91,8 @@ export default [{
   "date": "2020/3/12",
   "exchange": "ZB",
   "money": "-108"
+}, {
+  "date": "2020/3/13",
+  "exchange": "GATE",
+  "money": "-148.14"
 }]
