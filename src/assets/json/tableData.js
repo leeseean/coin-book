@@ -95,4 +95,9 @@ export default [{
   "date": "2020/3/13",
   "exchange": "GATE",
   "money": "-148.14"
+}, {
+  "date": "2020/3/15",
+  "exchange": "GATE",
+  "money": "-188",
+  "remark": "买1个zec"
 }]
