@@ -100,4 +100,14 @@ export default [{
   "exchange": "GATE",
   "money": "-188",
   "remark": "买1个zec"
+}, {
+  "date": "2020/7/15",
+  "exchange": "GATE",
+  "money": "-168",
+  "remark": "买USDT,单价6.95"
+}, {
+  "date": "2020/7/15",
+  "exchange": "imtoken",
+  "money": "-400",
+  "remark": "买USDT,单价7.05"
 }]
