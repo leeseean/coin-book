@@ -103,8 +103,8 @@ export default [{
 }, {
   "date": "2020/7/15",
   "exchange": "GATE",
-  "money": "-168",
-  "remark": "买USDT,单价6.95"
+  "money": "-600",
+  "remark": "买USDT,单价6.96"
 }, {
   "date": "2020/7/15",
   "exchange": "imtoken",
